@@ -1,0 +1,4 @@
+clean
+show
+shower
+mk\
