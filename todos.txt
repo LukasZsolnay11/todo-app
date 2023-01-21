@@ -1,6 +1,8 @@
 clean
-show
-shower
-mk\
-clean
-hello
+malohello
+goodahoj
+nazdarmalo
+last todo
+posledny
+prvy
+malo
