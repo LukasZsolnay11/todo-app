@@ -1,8 +1,6 @@
 clean
-malohello
-goodahoj
-nazdarmalo
-last todo
-posledny
 prvy
 malo
+pozmavat podlahu
+ahoj
+malovat
